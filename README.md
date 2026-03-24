@@ -1,16 +1,30 @@
-## Hi there 👋
+# 김재현 | Backend Developer
+> 백엔드 개발자를 목표로 공부 중입니다.
+---
 
-<!--
-**kimjaehyun7/kimjaehyun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Blog
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square\&logo=github\&logoColor=white)](https://kimjaehyun7.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚙️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+---
+
+## 🧩 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusrla77)](https://solved.ac/wogusrla77)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjaehyun7\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjaehyun7\&layout=compact)
