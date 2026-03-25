@@ -4,7 +4,6 @@
 
 ## 📝 Blog
 
-[![Blog](https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square\&logo=github\&logoColor=white)](https://kimjaehyun7.github.io)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square\&logo=tistory\&logoColor=white)](https://wogusrla77.tistory.com/)
 
 
